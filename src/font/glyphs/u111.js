@@ -40,7 +40,7 @@ path_o.lineTo(100, 440);
 pathFunctions.smallHorizontalCurveUpperLeftCW(path_o, 100, 440);
 path_o.lineTo(315, 450);
 
-export const o = new opentype.Glyph({
+export const u111 = new opentype.Glyph({
   name: 'o',
   unicode: 111,
   advanceWidth: 500,
