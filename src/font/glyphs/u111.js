@@ -1,4 +1,4 @@
-import * as pathFunctions from '../pathFunctions';
+import pathFunctions from '../pathFunctions';
 
 let path_o = new opentype.Path();
 
