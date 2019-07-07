@@ -25,9 +25,9 @@ path_a.lineTo(370, 422);
 pathFunctions.smallVerticalCurveUpperRightCW(path_a, 370, 422);
 path_a.lineTo(380, 305);
 path_a.lineTo(130, 305);
-// pathFunctions.largeHorizontalCurveUpperLeftCCW(path_a, 130, 305);
-// pathFunctions.smallHorizontalCurveUpperLeftReverse(path_a, 130, 305);
-// path_a.lineTo(20, 235);
+pathFunctions.largeHorizontalCurveUpperLeftCCW(path_a, 130, 305);
+path_a.lineTo(20, 235);
+pathFunctions.largeVerticalCurveUpperLeftCCW(path_a, 20, 235);
 // pathFunctions.largeVerticalCurveUpperLeftCCW(path_a, 20, 235);
 // path_a.lineTo(0, 130);
 
